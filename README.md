@@ -1,5 +1,5 @@
 # Game
-Hi!!!!!
+
 tried to make angry birds clone<br>
 Hope u like it !!!<br>
 # FirstGame
