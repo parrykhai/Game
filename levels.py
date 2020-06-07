@@ -86,7 +86,7 @@ class Level():
         static_block2 = Static_block(970, 650 - 513, 62, 150, self.space)
         self.static_block.append(static_block1)
         self.static_block.append(static_block2)
-        pig = Pig(777,650-5527, self.space)
+        pig = Pig(777,650-527, self.space)
         self.pigs.append(pig)
         pig = Pig(807, 650 - 527, self.space)
         self.pigs.append(pig)
