@@ -193,7 +193,7 @@ class Level():
         self.pigs.append(pig)
         pig = Pig(1100, 550, self.space)
         self.pigs.append(pig)
-        pig = Pig(900+30, 2500, self.space)
+        pig = Pig(900+30, 250, self.space)
         self.pigs.append(pig)
         pig = Pig(1000+30, 500, self.space)
         self.pigs.append(pig)
